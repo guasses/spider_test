@@ -8,4 +8,5 @@
 
 ----
 ### test_logitech
-爬取了罗技商城所有商品的信息
+爬取了罗技商城https://store.logitech.com.cn/Product<br>
+保存格式为标题,链接,价格的txt文档
