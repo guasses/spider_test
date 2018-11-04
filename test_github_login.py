@@ -40,4 +40,4 @@ class Login():
 
 if __name__ == '__main__':
     login = Login()
-    login.login('guasses','abc19970227.')
+    login.login('账号','密码')
