@@ -10,3 +10,10 @@
 ### test_logitech
 爬取了罗技商城https://store.logitech.com.cn/Product<br>
 保存格式为标题,链接,价格的txt文档
+
+----
+### test_taobao_iphone
+爬取了淘宝搜索iphone的商品信息<br>
+保存格式为csv,编码为GB2312,为了方便打开csv文件查看<br>
+主要用到了selenium模块<br>
+不过由于淘宝翻页要登陆，目前只能爬取第一页<br>
